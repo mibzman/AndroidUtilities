@@ -1,0 +1,5 @@
+c:\users\sborick\documents\visual studio 2015\Projects\androidTestProject\androidTestProject\bin\Release\androidTestProject.exe.config
+c:\users\sborick\documents\visual studio 2015\Projects\androidTestProject\androidTestProject\bin\Release\androidTestProject.exe
+c:\users\sborick\documents\visual studio 2015\Projects\androidTestProject\androidTestProject\bin\Release\androidTestProject.pdb
+c:\users\sborick\documents\visual studio 2015\Projects\androidTestProject\androidTestProject\obj\Release\androidTestProject.exe
+c:\users\sborick\documents\visual studio 2015\Projects\androidTestProject\androidTestProject\obj\Release\androidTestProject.pdb

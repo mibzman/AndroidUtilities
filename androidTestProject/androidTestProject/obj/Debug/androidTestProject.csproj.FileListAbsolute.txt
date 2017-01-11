@@ -1,0 +1,6 @@
+c:\users\sborick\documents\visual studio 2015\Projects\androidTestProject\androidTestProject\bin\Debug\androidTestProject.exe.config
+c:\users\sborick\documents\visual studio 2015\Projects\androidTestProject\androidTestProject\bin\Debug\androidTestProject.exe
+c:\users\sborick\documents\visual studio 2015\Projects\androidTestProject\androidTestProject\bin\Debug\androidTestProject.pdb
+c:\users\sborick\documents\visual studio 2015\Projects\androidTestProject\androidTestProject\obj\Debug\androidTestProject.csprojResolveAssemblyReference.cache
+c:\users\sborick\documents\visual studio 2015\Projects\androidTestProject\androidTestProject\obj\Debug\androidTestProject.exe
+c:\users\sborick\documents\visual studio 2015\Projects\androidTestProject\androidTestProject\obj\Debug\androidTestProject.pdb

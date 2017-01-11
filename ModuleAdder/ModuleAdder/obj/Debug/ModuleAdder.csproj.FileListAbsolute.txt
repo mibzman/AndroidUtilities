@@ -1,0 +1,5 @@
+c:\users\sborick\documents\visual studio 2015\Projects\ModuleAdder\ModuleAdder\bin\Debug\ModuleAdder.exe.config
+c:\users\sborick\documents\visual studio 2015\Projects\ModuleAdder\ModuleAdder\bin\Debug\ModuleAdder.exe
+c:\users\sborick\documents\visual studio 2015\Projects\ModuleAdder\ModuleAdder\bin\Debug\ModuleAdder.pdb
+c:\users\sborick\documents\visual studio 2015\Projects\ModuleAdder\ModuleAdder\obj\Debug\ModuleAdder.exe
+c:\users\sborick\documents\visual studio 2015\Projects\ModuleAdder\ModuleAdder\obj\Debug\ModuleAdder.pdb
