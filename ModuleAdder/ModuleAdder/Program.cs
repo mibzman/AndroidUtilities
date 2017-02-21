@@ -79,12 +79,34 @@ namespace ModuleAdder
 
         public static void addActivityToManifest()
         {
-            string endTag = @"           </application>";
+            string endTag = @"</application>";
             var lineToAdd = @"<activity android:name="".%.~Activity_"" />";
 
             var txtLines = File.ReadAllLines(MANIFESTPATH).ToList();
-            txtLines.Insert(txtLines.IndexOf(endTag), replace(lineToAdd));
-            File.WriteAllLines(MANIFESTPATH, txtLines);
+            int index = txtLines.IndexOf(endTag);
+            if (index == -1)
+            {
+                write("application tag not found in project file");
+            }
+            else
+            {
+                txtLines.Insert(index, replace(lineToAdd));
+                File.WriteAllLines(MANIFESTPATH, txtLines);
+            }
+
+            //try
+            //{
+            //    string endTag = @"           </application>";
+            //    var lineToAdd = @"<activity android:name="".%.~Activity_"" />";
+
+            //    var txtLines = File.ReadAllLines(MANIFESTPATH).ToList();
+            //    txtLines.Insert(txtLines.IndexOf(endTag), replace(lineToAdd));
+            //    File.WriteAllLines(MANIFESTPATH, txtLines);
+            //}
+            //catch
+            //{
+            //    write("--- An error occured while writing to the Android Manifest");
+            //}
         }
 
         public static string replace(string input)
